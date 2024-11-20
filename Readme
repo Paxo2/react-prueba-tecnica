@@ -1,0 +1,11 @@
+APIs
+
+-Facts Random https://catfact.ninja/facts
+-Imagen Random https//cataas.com/cat/says/hello
+
+https://cataas.com/cat/says/hello?fontSize=50&fontColor=red
+
+recuperar las primeras 3 palabras de un fact de la primera API
+
+recuepera un hecho aleatorio de gatos de la primera API y muestra una de 
+un gato con la primera palabra del hecho recuperado usando la segunda API.
